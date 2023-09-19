@@ -51,7 +51,7 @@
 - Φ = S * h * (T1-T2)
 - Φ = quantité de chaleur transférée (Watts (W)) 
 - h = coefficient de Newton (Watts par mètre carré par Kelvin (W/(m²·K))) 
-- S = surface exposée au fluide en mouvement (Mètres carrés (m²)) 
+- S = section en m² (Mètres carrés (m²)) 
 - ΔT = (T1-T2) = différence de température entre la surface de l'objet et le fluide (Kelvin (K) ou (degrés Celsius (°C)))
 
 # Rayonnement :
